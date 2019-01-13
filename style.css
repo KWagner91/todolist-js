@@ -26,3 +26,7 @@ li:nth-child(odd) {
 ul li:hover {
   background: #ddd;
 }
+
+span {
+  color: red;
+}
