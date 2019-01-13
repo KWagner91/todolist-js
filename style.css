@@ -1,0 +1,28 @@
+* {
+  font-family: sans-serif;
+  font-size: 1em;
+  padding: 0 1%;
+}
+
+h1 {
+  font-size: 2rem;
+  padding: 0;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 2% 0;
+}
+
+li {
+  padding: 0.6%;
+}
+
+li:nth-child(odd) {
+  background: #f9f9f9;
+}
+
+ul li:hover {
+  background: #ddd;
+}
