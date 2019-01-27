@@ -30,3 +30,9 @@ ul li:hover {
 span {
   color: red;
 }
+
+.close:hover {
+  background-color: red;
+  color: white;
+  cursor: pointer;
+}
